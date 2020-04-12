@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "fairy-of-9's blog for NLP"
+title                    : "fairy-of-9's blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "for NLP"
 name                     : "fairy-of-9"
 description              : "공부한 내용을 정리합니다."
 url                      : "https://fairy-of-9.github.io"
